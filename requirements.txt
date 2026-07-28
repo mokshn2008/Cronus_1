@@ -1,0 +1,7 @@
+gradio
+openai
+duckduckgo_search
+pypdf
+python-docx
+python-pptx
+sympy
